@@ -16,9 +16,9 @@ A estrutura HTML e o CSS foram fornecidos pela Alura. O desafio consiste em **im
 
 ## 💻 Tecnologias Utilizadas
 
-- HTML5 (fornecido)
-- CSS3 (fornecido)
-- JavaScript (desenvolvido no desafio)
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
